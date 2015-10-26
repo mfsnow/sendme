@@ -1,0 +1,23 @@
+{
+  "name": "sendme",
+  "version": "0.1.0",
+  "description": "Express middleware used to convert json and res.send in multiple formats",
+  "main": "lib/sendme.js",
+  "keywords": [
+    "expressjs",
+    "send",
+    "json",
+    "xml",
+    "csv",
+    "xlsx",
+    "delimited",
+    "text"
+  ],
+  "author": "Matt Snow",
+  "license": "MIT",
+  "dependencies": {
+    "excel4node": "^0.2.21",
+    "tabular-json": "^0.1.2",
+    "xml": "^1.0.0"
+  }
+}
