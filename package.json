@@ -1,6 +1,6 @@
 {
   "name": "sendme",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Express middleware used to convert json and res.send in multiple formats",
   "main": "lib/sendme.js",
   "keywords": [
